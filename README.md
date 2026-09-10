@@ -107,7 +107,7 @@ The Quiz Game is a console application that presents multiple-choice questions w
 
 ---
 
-## 🙏 Acknowledgement
+##  Acknowledgement
 
 I would like to thank **upSkillCampus** and its industry partner **UniConverge Technologies Pvt. Ltd.**, in association with **AICTE**, for the internship opportunity, and the **School of Computer Science and Engineering, IILM University, Greater Noida**, for the academic platform that supported this internship.
 
